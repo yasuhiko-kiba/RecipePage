@@ -1,1 +1,1 @@
-[RecipePage](https://yasuhiko-kiba.github.io/RecipePage/)
+[RecipePage](https://yasuhiko-kiba.github.io/devchallengeRecipePage/)
